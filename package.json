@@ -2,6 +2,9 @@
   "name": "@solfege/configuration-yaml-loader",
   "description": "YAML loader for SolfegeJS configuration",
   "version": "2.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "neolao <contact@neolao.com>",
   "repository": "https://github.com/solfegejs/configurationi-yaml-loader.git",
   "license": "MIT",
